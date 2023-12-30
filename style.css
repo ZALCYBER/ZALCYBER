@@ -1,0 +1,38 @@
+* { 
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+
+.about,
+.service {
+	padding-bottom: 100px;
+}
+.about p {
+	color: #666;
+	word-spacing: 2px;
+	line-height: 25px;
+	margin-bottom: 20px;
+	text-align: center;
+	
+	.misi  {
+	background-color: #f9f9f9;
+}
+.medsos {
+	padding:5px 0;
+	background-color: #148F77;
+}
+.medsos ul li {
+	display: inline-block;
+	color: #fff;
+	margin-right: 10px;
+	
+	.icon {
+	width:70px;
+	height:70px;
+	border:1px solid;
+	border-radius: 50%;
+	text-align: center;
+	line-height: 70px;
+	font-size: 20px;
+	margin:0 auto;
+}
